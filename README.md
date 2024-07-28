@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MarkZuck10
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning NLP
+- 💞️ I’m looking to collaborate on exciting projects
+- 📫 How to reach me - Meta HQ
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I created TheFacebook
